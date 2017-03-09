@@ -16,8 +16,8 @@ public class KüsimusteParse {
 
     public static void main(String[] args) throws Exception {
 
-        //radioButtons();
-        button();
+        radioButtons();
+        //button();
         failiRead();
     }
 
@@ -33,7 +33,7 @@ public class KüsimusteParse {
 
 
 
-        String url = "http://www.e-uni.ee/e-kursused/eucip/arendus/kordamisksimused5.html"; // Link kust võtab radiobuttoniga küsimused
+        String url = "http://www.e-uni.ee/e-kursused/eucip/arendus/kordamisksimused28.html"; // Link kust võtab radiobuttoniga küsimused
 
         Document doc = null; // muutuja kuhu laetakse html kood
         try {
@@ -47,12 +47,12 @@ public class KüsimusteParse {
         ArrayList<String> vastused = new ArrayList<>(); //Array mis sisaldab vastuseid
         ArrayList<String> kontroll = new ArrayList<>(); //Array mis sisaldab vastuse tüüpi(õige, vale)
 
-        int count = 7;
+        int count = 3;
 
 
-        for (int a = 0; a < count; a++) { //loopib hetkel 2 korda, peaks loopima vastavalt küsimuste arvule lehel
+        for (int a = 0; a < küsimused.size(); a++) { 
             Elements e = küsimused.get(a).children().select("div"); //sisaldab küsimust, vastusevarjante, õigeid vastuseid
-
+            System.out.println(a);
             String küsimus = küsimused.get(a).child(0).text(); // võtab küsimuse div-ist
             System.out.println(küsimus); //väljastab küsimuse
 
@@ -62,17 +62,19 @@ public class KüsimusteParse {
                 if (i > e.size() / 2) {
 
                     kontroll.add(e.get(i).text()); // lisab arraysse "kontroll" vastuse tüübi
+                    System.out.println(e.get(i).text());
                 }else {
 
                     if (i != 0) {
                         vastused.add(e.get(i).text()); // lisab arraysse "vastused"
+                        System.out.println(e.get(i).text());
                     }
 
                 }
             }
 
             for (int i = 0; i < kontroll.size(); i++) {
-                System.out.println(vastused.get(i) + " - " + kontroll.get(i)); //väljastab küsimuse koos vastuse tüübiga(õige,vale)
+                //System.out.println(vastused.get(i) + " - " + kontroll.get(i)); //väljastab küsimuse koos vastuse tüübiga(õige,vale)
             }
 
             String vastuseQuery = küsimus + ";";
@@ -86,9 +88,9 @@ public class KüsimusteParse {
 
 
                 if(kontroll.get(i).equals("Õige")){
-                    System.out.println(vastused.get(i) + " - Õige"); // väljastab vastuse koos vastuse tüübiga
+                    //System.out.println(vastused.get(i) + " - Õige"); // väljastab vastuse koos vastuse tüübiga
                 }else{
-                    System.out.println(vastused.get(i) + " - Vale"); // väljastab vastuse koos vastuse tüübiga
+                    //System.out.println(vastused.get(i) + " - Vale"); // väljastab vastuse koos vastuse tüübiga
                 }
 
             }
@@ -161,13 +163,72 @@ public class KüsimusteParse {
 
         }
 
-        for (int i = 0; i <30 ; i++) {
-            if(küsimused.get(0).child(1).child(0).select("td").get(i).select("input").attr("value").toString() != ""){
-                System.out.println("TEST - " + küsimused.get(1).child(1).child(0).select("td").get(i).select("input").attr("value").toString());
+        int kysNr = 2;
+        Elements tableRow  = küsimused.get(kysNr).child(1).select("tbody").select("tr").select("td");
+        //System.out.println(tableRow);
+        int size = küsimused.get(kysNr).child(1).select("tbody").select("tr").select("td").size();
+        System.out.println(size);
+
+        ArrayList<String> vastusedList = new ArrayList<>();
+        ArrayList<String> vastuseVarjandid = new ArrayList<>();
+
+        for (int i = 0; i <size ; i++) {
+
+
+                //System.out.println(tableRow.get(i).text());
+
+
+
+            if(tableRow.get(i).html().contains("input")){
+
+                //System.out.println("Value: " + tableRow.get(i).child(0).attr("value"));
+                if(tableRow.get(i).child(0).attr("value").equals("True")){
+                    //System.out.println("Õige");
+                    vastusedList.add("Õige");
+                }else{
+                    //System.out.println("Vale");
+                    vastusedList.add("Vale");
+                }
+
+            }else{
+
+                if(tableRow.get(i).html().contains("div")) {
+
+                        System.out.println(i + tableRow.get(i).text());
+                        vastuseVarjandid.add(tableRow.get(i).text());
+
+
+                }
+
             }
+
 
         }
 
+        String varjantideRida = "";
+
+        for (int i = 0; i <vastuseVarjandid.size() ; i++) {
+            if(i% 2 == 0){
+                System.out.println(vastuseVarjandid.get(i));
+                varjantideRida += vastuseVarjandid.get(i) + ",";
+
+            }
+
+
+        }
+        varjantideRida = varjantideRida.substring(0,varjantideRida.length()-1);
+        System.out.println(" ");
+        varjantideRida += ";";
+        for (int i = 0; i <vastusedList.size() ; i++) {
+
+            System.out.println(vastusedList.get(i));
+            varjantideRida += vastusedList.get(i) + ",";
+        }
+        varjantideRida = varjantideRida.substring(0,varjantideRida.length()-1) + ";";
+
+        String questionn = küsimused.get(kysNr).child(0).text();
+
+        System.out.println(questionn + ";"+varjantideRida);
 
         System.out.println(" ");
         
