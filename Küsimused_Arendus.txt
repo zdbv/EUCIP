@@ -1,107 +1,69 @@
-﻿See elutsükkel on mudel, mida kasutatakse tarkvara kvaliteedi tõstmiseks:;analüüsi elutsükkel,mudeli elutsükkel,kvaliteedi elutsükkel,arenduse elutsükkel;Vale,Vale,Vale,Õige;
-Milline protsess määrab süsteemi nõuded, analüüsides seda, kuidas süsteem rahuldab kasutajate vajadusi.;tehniline analüüsi,tasuvuse analüüs,nõuete analüüs,süsteemi analüüs;Vale,Vale,Õige,Vale;
-Tarkvaraprotsessi mudelid:;annavad detailseid suuniseid arendustegevuseks,kirjeldavad loodavaid dokumente,näitavad, kuidas arenduses vajalikke tegevusi järjestada;Vale,Vale,Õige;
-Protsessimudel prototüüpimisega on;mõistlik lahendus, kui nõuded on selgelt ja hästi kirjeldatud,hea meetod, kui klient ei oska oma soove selgelt kirjeldada,kõige parem kasutada siis, kui projektiga töötab suur meeskond,riskantne mudel, millega harva saavutatakse mõistlik toode;Vale,Õige,Vale,Vale;
-Tarkvaraprotsessi spiraalmudel erineb teistest mudelitest selle poolest, et;lõppeb tarkvaratoote üleandmisega,on kaootilisem kui inkrementaalne mudel,sisaldab projekti riskide hindamist iga iteratsiooni sees;Vale,Vale,Õige;
-Tarkvaraarenduse lineaarne mudel ehk koskmudel on;mõistlik lähenemine, kui nõudmised on selgelt ja hästi kirjeldatud,hea meetod, kui töötavat programmi on ruttu vaja,kõige parem kasutada siis, kui projektiga töötab suur meeskond,vanamoeline protsessimudel, mida tänapäeval väga harva kasutatakse;Õige,Vale,Vale,Vale;
-Inkrementaalne tarkvaraprotsessi mudel on;mõistlik lahendus, kui nõudmised on selgelt ja hästi kirjeldatud,hea meetod, kui töötavat programmi on ruttu vaja,kõige parem kasutada siis, kui projektiga töötab suur meeskond,uudne mudel, mida kasutatakse ainult vabavara arendamiseks;Vale,Õige,Vale,Vale;
-Millistes tarkvara elutsükli faasides saab kasutada CASE-vahendeid?;analüüs,kavandamine,teostus,hooldus;Õige,Õige,Õige,Õige;
-Väikeste programmeerimistööde juures ei ole CASE-vahenditest mingit kasu.;Õige,Vale;Vale,Õige;
-Testimisega saab näidata vigade esinemist tarkvaras, kuid mitte kunagi ei saa testimisega näidata vigade puudumist;jah,ei;Õige,Vale;
-Hooldusetapp ehk toeetapp on tavaliselt kõige lühema kestvusega etapp tarkvara elutsüklis;jah,ei;Vale,Õige;
-Juurutusetapil tuleb:;kasutajaid koolitada,tarkvara installeerida,andmeid ülekanda,toodet reklaamida;Õige,Õige,Õige,Vale;
-Milliseid allpoolt loetletud tegevusi on sobiv läbi viia arenduskeskkonnas:;koodi kirjutamine,kasutajatega testimine,kasutajate koolitus,koodi kompileerimine;Õige,Vale,Vale,Õige;
-Milliseid allpoolt loetletud tegevusi on sobiv läbi viia testimiskeskkonnas:;koodi kirjutamine,kasutajatega testimine,kasutajate koolitus,koodi kompileerimine;Vale,Õige,Õige,Vale;
-Milliseid allpoolt loetletud tegevusi on sobiv läbi viia töökeskkonnas:;koodi kirjutamine,kasutajatega testimine,kasutajate koolitus,koodi kompileerimine;Vale,Vale,Õige,Vale;
-Tarkvarasüsteemi turvalisuse tagamisega tuleb alustada:;kliendiga nõudeid arutades,tarkvara projekteerides,tarkvarasüsteemi programmeerides,vajalikku riistvara ja tugisüsteeme seadistades,peale tarkvarasüsteemi töösseandmist.;Vale,Õige,Vale,Vale,Vale;
-Mitmekihilise arhitektuuri oluline eesmärk on eraldada üksteisest rakenduse andmed ja nende esitamine kasutajale ning teha seeläbi võimalikuks rakenduse erinevate osade muutmise vajaduseta kogu rakenduse koodi ringi kirjutada;jah,ei;Õige,Vale;
-Tarkvaraarenduse kergetele (agile) meetoditele on omane;testimise alustamine esimestel protsessi etappidel,tihe suhtlemine kasutajatega,dokumentatsiooni puudumine,arendusprotsessi juhtimise puudumine;Õige,Õige,Vale,Vale;
-Tarkvaraarenduse rasketele (heavy) meetoditele on omane:;põhjalik planeerimine,tihe klientidega suhtlemine kogu protsessi vältel,tarkvara tarnimine osade kaupa,pikk ettemääratus;Õige,Vale,Vale,Õige;
-Kas keskmine brutopalk 8049 krooni on andmed või informatsioon?;Andmed,Informatsioon;Vale,Õige;
-Kas Statistikaameti poolt väljastatud näitaja "keskmine eluiga" on informatsioon;jah,ei;Õige,Vale;
-Miks võiks andmehalduse seisukohalt kasulik olla lukustus üksikutele failiosadele?;suurendab faili kopeerimise kiirust,võimaldab faili paremini jagada kettasektorite vahel,võimaldab kindlamat üheaegset failikasutust,suurendab üksikute baitide kirjutamise kiirust;Vale,Vale,Õige,Vale;
-Miks on andmehalduse seisukohalt kasulikud indeksid?;suurendab andmete kopeerimise kiirust,võimaldab kergemini kätte saada binaarandmeid,aitab soovitud tunnuse järgi kiiremini otsida,võimaldab kindlamat üheaegset failikirjutust;Vale,Vale,Õige,Vale;
-Milline neist võiks olla tüüpiline üks-mitmele seos?;Heinakoorma mass,Inimeste turismireiside sihtkohad,Inimeste sünnilinnad,Inimese isikukood;Vale,Vale,Õige,Vale;
-Andmete kontseptuaalne tase on seotud põhiliselt;kõvaketta sektoritega,failisüsteemiga,andmebaasi struktuuriga,kasutaja vaatega;Vale,Vale,Õige,Vale;
-Mida aitab viiteline terviklus?;Hoolitseb, et ei oleks korduvaid andmeid,Hoolitseb, et seotud andmetest ei saaks üht osa kogemata kustutada,Hoolitseb, et igal real oleks primaarvõti,Piirab ühe kirje andmemahu kilobaitides;Vale,Õige,Vale,Vale;
-Milline neist on kolmandal normaalkujul olevate andmete eritunnus?;Ühel real olevad andmed ei sõltu üksteisest,Ühes lahtris on üks väärtus,Ühte tabeli lahtrisse võib paigutada rohkem kui ühe väärtuse,Igas tabelis on rohkem kui üks primaarvõti;Õige,Vale,Vale,Vale;
-Tabelile veeru lisamiseks tuleb kasutada käsklust:;insert,update,select from,alter table;Vale,Vale,Vale,Õige;
-Konkreetse sünniaastaga inimeste küsimiseks SELECT-lauses kasutatakse tingimust lauseosas nimega;ORDER BY,WHERE,GROUP BY,FROM;Vale,Õige,Vale,Vale;
-Käivitatud käskude eelse seisundi taastamiseks võib sobida;ROLLBACK,COMMIT,ORDER BY,GROUP BY;Õige,Vale,Vale,Vale;
-Kasutajale õiguste jagamiseks kasutatakse käsklust;UPDATE,REVOKE,GRANT,INSERT;Vale,Vale,Õige,Vale;
-Loogilisi vigu aitavad vältida;RAID-kettaseadmed,võõrvõtmed,varukoopiad,UPS-seadmed;Vale,Õige,Vale,Vale;
-Andmehoidla võimaldab:;leida eilse kolmanda tehingu summa,kiiremini kätte saada kokkuvõtvaid andmeid,serveri kettaid defragmenteerida,kasutajaid kiiremini administreerida;Vale,Õige,Vale,Vale;
-Andmekaeve:;võimaldab leida andmete mustreid, mida lihtsa tavapäringuga ei pruugi kätte saada,kustutab andmehoidlast andmeid, mida mõningatel põhjustel ei soovita säilitada.,on võimatu andmehoidlat kasutamata,on andmebaasis võimalik ainult spetsiaalse kasutajatunnuse abil;Õige,Vale,Vale,Vale;
-Abstraktsiooni puhul:;tohib andmete juures kasutada ainult arve,parema arusaadavuse huvides üldistatakse üksikjuhtumid,ei tohi alamprogrammid üksteist välja kutsuda,peavad kõik andmed olema tekstitüüpi;Vale,Õige,Vale,Vale;
-Pärandsüsteemid:;on ilmtingimata suured,on kindlasti kättesaadava lähtekoodita,on sageli raskesti kohandatavad ja liidestatavad,on harva töövõimelised;Vale,Vale,Õige,Vale;
-Massiivi puhul:;on elemendi poole võimalik pöörduda massiivi nime ning järjekorranumbri kaudu,võivad sisaldada kuni viis elementi,elemendid peavad olema täisarvud,pole võimalik tsükli sees elementide poole pöörduda;Õige,Vale,Vale,Vale;
-Andmepuu:;võib sisaldada ainult täisarve,peab sisaldama vähemalt viis elementi,lehtede väärtused saab süstemaatiliselt läbi käia,on kasutatav vaid üksikute programmeerimiskeeltega;Vale,Vale,Õige,Vale;
-Masinkood on:;esimese põlvkonna programmeerimiskeel,teise põlvkonna programmeerimiskeel,kolmanda põlvkonna programmeerimiskeel,neljanda põlvkonna programmeerimiskeel;Õige,Vale,Vale,Vale;
-Viite kaudu alamprogrammile andmete edastamisel:;tohib edasi anda ainult täisarve,alamprogrammis tehtud muutus kajastub ka peaprogrammist parameetrina kaasa antud muutujas,ei tohi ühele alamprogrammile kaasa anda rohkem kui ühte parameetrit,kulub andmete kopeerimisele palju aega;Vale,Õige,Vale,Vale;
-Klass;on objektitüüp, kõigil sama klassi eksemplaridel on samad omadused ja oskused.,on eksemplar, kahte samast klassist eksemplari pole võimalik luua.,on alamprogramm, väljakutsel täidetav käsujada.,on pakett, sarnaste objektitüüpide kogum.;Õige,Vale,Vale,Vale;
-Objektorienteeritud programmeerimise juures;üks suur keskne peaprogramm kontrollib kõiki toimetusi,igast programmiosast on võimalik otse kõigi andmete poole pöörduda,rakendus on jagatud suhteliselt iseseisvateks üksusteks, mis omavahel meetodite väljakutsete abil suhtlevad,paljude samatüübiliste järjestatud andmete puhul on tagumiste poole võimalik pöörduda ainult nõnda, et tuleb kõikide esimeste aadressid läbida.;Vale,Vale,Õige,Vale;
-Valik ja kordus;valiku puhul peab tingimuses olema &- märk,korduse puhul peab tingimuses olema &-märk,tingimuslauset läbitakse üks kord või üldse mitte, korduslauset null või rohkem korda,iga korduslauset peab läbima vähemalt ühe korra;Vale,Vale,Õige,Vale;
-Jäägiarvutus 5%4=;1,2,3,4;Õige,Vale,Vale,Vale;
-Integratsioonitestimise puhul;kontrollitakse keelefailide korrektsust,kontrollitakse moodulite omavahelist koostalitlusvõimet,kontrollitakse arvutuste korrektsust algoritmides,kontrollitakse tingimuslausete omavahelist paiknemist;Vale,Õige,Vale,Vale;
-Silurid (debugger) võimaldavad;käivitada programmi tööd sammude kaupa,dekompileerida masinkoodi,muuta muutujate andmetüüpe,koondada programmifailid projektidesse;Õige,Vale,Vale,Vale;
-Süsteemi nõuete dokument:;juhendab kasutaja käitumist erisugustes olukordades,on nõuete kogumise ja analüüsi tegevuse väljundiks,märgib üles rakenduse arhitektuurse disaini,määrab rakendust loova meeskonna liikmed;Vale,Õige,Vale,Vale;
-Koodi kommenteerimise reeglid:;määravad rakenduses kasutatava programmeerimiskeele,hoiavad alles koodi vanemad versioonid,kirjeldavad, kuidas ühtlaselt kirja panna programmi juures leiduv metainfo,aitavad konfiguratsioonifailidest leida soovitud parameetreid.;Vale,Vale,Õige,Vale;
-
-ARENDUS KORDAMISKÜSIMUSED 22!!!
-
-Mis teeb kommunikatsiooni edukaks?;sõnum saadeti välja,sõnum jõudis kohale,sõnumist saadi aru;Vale,Vale,Õige;
-Milline protokoll transpordib internetis andmeid ühest arvutis teise?;TCP,IP,TCP/IP;Vale,Õige,Vale;
-Mis on kasutajaliides?;Suvaline seade millega saab teisele seadmele anda sisendinformatsiooni,Kõik kuvarid sh telerid arvutiekraan mobiiliekraan jne,Brauserid;Õige,Vale,Vale;
-Millega mõõdetakse kasutajaliidest võimekust?;kasutaja eesmärkidetäitmisega,töö kvalikteediga,töö tegemise kiirusega;Vale,Vale,Õige;
-Milline värvitehnoloogia käsitleb valguse värve?;RGB,CMY,CMYK,RGB ja CMY;Õige,Vale,Vale,Vale;
-Kui suur on veebis kasutatavate piltide lahutusvõime?;92 ppi,72 ppi,suvaline;Vale,Õige,Vale;
-Millised graafikafailid võimaldavad kasutada veebibrauseris läbipaistvust?;JPG,PNG,PNG ja GIF,JPG PNG ja GIF;Vale,Vale,Õige,Vale;
-Millistel eesmärkidel hakati looma arvutivõrku?;sõjalistel,teaduslikel,ärilistel;Vale,Õige,Vale;
-Mis on hüperlink?;brauseri nupp,viide suvalisele failile,viide teisele tekstile;Vale,Õige,Vale;
-Kelle eesmärke silmas pidades luuakse veebisaite?;saidi omaniku,kõikide internetikasutajate,spetsiifiliste sihtrühmade;Õige,Vale,Vale;
-Kui palju sihtrühma liikmeid läheb vaja kasutajaliidese testimiseks?;6,10,rohkem on parem;Õige,Vale,Vale;
-Mida tähendab kasutajapoolne kontroll ja vabadus kasutatavuse kontekstis?;Kasutaja kontrollib süsteemi tööd.,Kasutaja võib luua sellist sisu nagu ta soovib.,Kasutajal on õigus teha vigu;Vale,Vale,Õige;
-Mida väljendab George Milleri maagiline number 7?;Maksimaalset navigatsioonielementide hulka ühes grupis,Inimese lühiajalise mälu võimekust info töötlemisel,Toimingute korduste arvu mis on vajalik veebisaidi funktsioonide õppimiseks.;Vale,Õige,Vale;
-Milline navigatsiooni meetod viib kasutaja kõige kiirema tulemuseni väikesemahulise saidi korral?;lame,põimitud,maatriks;Õige,Vale,Vale;
-Milline on kõige efektiivsem veebi disainimise meetod?;süžeetahvel,sisukaart,sõrestikmudel,stsenaarium,erinevate meetodite kombineerimine;Vale,Vale,Vale,Vale,Õige;
-Miks ei tohi HTMLis kasutada järjestikku mitut tühikut?;Brauserid ei ole võimelised sellise veaga koodi õigesti interpreteerima,Kujundus läheb paigast ära.,Tohib kasutada kuid sellel pole mingit silmale nähtavat tagajärge;Vale,Vale,Õige;
-Millised on skriptikeeled?;HTML,JavaScript ja XML,XML,PHP ja HTML,HTML ja XML,JavaScript ja PHP;Vale,Vale,Vale,Vale,Vale,Õige;
-Millist tüüpi fonte on ekraanilt kõige parem lugeda?;seriifidega proportsionaalset fonti,ilma seriifideta fikseeritud fonti,seriifidega fikseeritud fonti,ilma seriifideta proportsionaalset fonti;Vale,Õige,Vale,Vale;
-Kas HTMLis saab komponente üksteise taha paigutada?;Jah,Ei,Jah CSSi abil saab;Vale,Vale,Õige;
-Milline loetelus ei ole Microsoft'i tehnoloogia:;.NET,Flash,VB Script,Silverlight,ASP;Vale,Õige,Vale,Vale,Vale;
-Miks on vaja veebiteenuseid integreerida?;Standardid näevad nii ette.,Organisatsioonid soovivad pakkuda paremaid teenuseid.,Integreerimisvajadus puudub.;Vale,Õige,Vale;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+﻿See elutsükkel on mudel, mida kasutatakse tarkvara kvaliteedi tõstmiseks:►analüüsi elutsükkel▪mudeli elutsükkel▪kvaliteedi elutsükkel▪arenduse elutsükkel►Vale▪Vale▪Vale▪Õige►
+Milline protsess määrab süsteemi nõuded, analüüsides seda, kuidas süsteem rahuldab kasutajate vajadusi.►tehniline analüüsi▪tasuvuse analüüs▪nõuete analüüs▪süsteemi analüüs►Vale▪Vale▪Õige▪Vale►
+Tarkvaraprotsessi mudelid:►annavad detailseid suuniseid arendustegevuseks▪kirjeldavad loodavaid dokumente▪näitavad, kuidas arenduses vajalikke tegevusi järjestada►Vale▪Vale▪Õige►
+Protsessimudel prototüüpimisega on►mõistlik lahendus, kui nõuded on selgelt ja hästi kirjeldatud▪hea meetod, kui klient ei oska oma soove selgelt kirjeldada▪kõige parem kasutada siis, kui projektiga töötab suur meeskond▪riskantne mudel, millega harva saavutatakse mõistlik toode►Vale▪Õige▪Vale▪Vale►
+Tarkvaraprotsessi spiraalmudel erineb teistest mudelitest selle poolest, et►lõppeb tarkvaratoote üleandmisega▪on kaootilisem kui inkrementaalne mudel▪sisaldab projekti riskide hindamist iga iteratsiooni sees►Vale▪Vale▪Õige►
+Tarkvaraarenduse lineaarne mudel ehk koskmudel on►mõistlik lähenemine, kui nõudmised on selgelt ja hästi kirjeldatud▪hea meetod, kui töötavat programmi on ruttu vaja▪kõige parem kasutada siis, kui projektiga töötab suur meeskond▪vanamoeline protsessimudel, mida tänapäeval väga harva kasutatakse►Õige▪Vale▪Vale▪Vale►
+Inkrementaalne tarkvaraprotsessi mudel on►mõistlik lahendus, kui nõudmised on selgelt ja hästi kirjeldatud▪hea meetod, kui töötavat programmi on ruttu vaja▪kõige parem kasutada siis, kui projektiga töötab suur meeskond▪uudne mudel, mida kasutatakse ainult vabavara arendamiseks►Vale▪Õige▪Vale▪Vale►
+Millistes tarkvara elutsükli faasides saab kasutada CASE-vahendeid?►analüüs▪analüüs▪Õige▪Väär▪kavandamine▪kavandamine▪Õige▪Väär▪teostus►Vale▪Õige▪Vale▪Vale▪Vale▪Õige▪Vale▪Vale▪Vale►
+Väikeste programmeerimistööde juures ei ole CASE-vahenditest mingit kasu.►Õige▪Vale►Vale▪Õige►
+Testimisega saab näidata vigade esinemist tarkvaras, kuid mitte kunagi ei saa testimisega näidata vigade puudumist►jah▪ei►Õige▪Vale►
+Hooldusetapp ehk toeetapp on tavaliselt kõige lühema kestvusega etapp tarkvara elutsüklis►jah▪ei►Vale▪Õige►
+Juurutusetapil tuleb:►kasutajaid koolitada▪kasutajaid koolitada▪Õige▪Väär▪tarkvara installeerida▪tarkvara installeerida▪Õige▪Väär▪andmeid ülekanda►Vale▪Õige▪Vale▪Vale▪Vale▪Õige▪Vale▪Vale▪Vale►
+Milliseid allpoolt loetletud tegevusi on sobiv läbi viia arenduskeskkonnas:►koodi kirjutamine;▪koodi kirjutamine;▪Õige▪Väär▪kasutajatega testimine;▪kasutajatega testimine;▪Õige▪Väär▪kasutajate koolitus;▪kasutajate koolitus;▪Õige▪Väär▪koodi kompileerimine;▪koodi kompileerimine;▪Õige▪Väär▪moodulite testimine;▪moodulite testimine;▪Õige►Vale▪Vale▪Vale▪Õige▪Vale▪Vale▪Vale▪Õige▪Vale▪Vale▪Vale▪Õige▪Vale▪Vale▪Vale▪Õige▪Vale▪Vale▪Vale►
+Milliseid allpoolt loetletud tegevusi on sobiv läbi viia testimiskeskkonnas:►koodi kirjutamine;▪koodi kirjutamine;▪Õige▪Väär▪kasutajatega testimine;▪kasutajatega testimine;▪Õige▪Väär▪kasutajate koolitus;▪kasutajate koolitus;▪Õige▪Väär▪koodi kompileerimine;▪koodi kompileerimine;▪Õige▪Väär▪moodulite testimine;▪moodulite testimine;▪Õige►Vale▪Vale▪Vale▪Õige▪Vale▪Vale▪Vale▪Õige▪Vale▪Vale▪Vale▪Õige▪Vale▪Vale▪Vale▪Õige▪Vale▪Vale▪Vale►
+Milliseid allpoolt loetletud tegevusi on sobiv läbi viia töökeskkonnas:►koodi kirjutamine;▪koodi kirjutamine;▪Õige▪Väär▪kasutajatega testimine;▪kasutajatega testimine;▪Õige▪Väär▪kasutajate koolitus;▪kasutajate koolitus;▪Õige▪Väär▪koodi kompileerimine;▪koodi kompileerimine;▪Õige▪Väär▪moodulite testimine;►Vale▪Õige▪Vale▪Vale▪Vale▪Õige▪Vale▪Vale▪Vale▪Õige▪Vale▪Vale▪Vale▪Õige▪Vale▪Vale▪Vale►
+Tarkvarasüsteemi turvalisuse tagamisega tuleb alustada:►kliendiga nõudeid arutades;▪tarkvara projekteerides;▪tarkvarasüsteemi programmeerides;▪vajalikku riistvara ja tugisüsteeme seadistades;▪peale tarkvarasüsteemi töösse andmist.►Vale▪Õige▪Vale▪Vale▪Vale►
+Tarkvaraarenduse kergetele (agile) meetoditele on omane►testimise alustamine esimestel protsessi etappidel▪testimise alustamine esimestel protsessi etappidel▪Õige▪Väär▪tihe suhtlemine kasutajatega▪tihe suhtlemine kasutajatega▪Õige▪Väär▪dokumentatsiooni puudumine►Vale▪Õige▪Vale▪Vale▪Vale▪Õige▪Vale▪Vale▪Vale►
+Tarkvaraarenduse rasketele (heavy) meetoditele on omane:►põhjalik planeerimine▪põhjalik planeerimine▪Õige▪Väär▪tihe klientidega suhtlemine kogu protsessi vältel▪tihe klientidega suhtlemine kogu protsessi vältel▪Õige▪Väär▪tarkvara tarnimine osade kaupa►Vale▪Õige▪Vale▪Vale▪Vale▪Õige▪Vale▪Vale▪Vale►
+Mitmekihilise arhitektuuri oluline eesmärk on eraldada üksteisest rakenduse andmed ja nende esitamine kasutajale ning teha seeläbi võimalikuks rakenduse erinevate osade muutmise vajaduseta kogu rakenduse koodi ringi kirjutada►jah▪ei►Õige▪Vale►
+Kas keskmine brutopalk 8049 krooni on andmed või informatsioon?►Andmed▪Informatsioon►Vale▪Õige►
+Kas Statistikaameti poolt väljastatud näitaja "keskmine eluiga" on informatsioon►jah▪ei►Õige▪Vale►
+Miks võiks andmehalduse seisukohalt kasulik olla lukustus üksikutele failiosadele?►suurendab faili kopeerimise kiirust▪võimaldab faili paremini jagada kettasektorite vahel▪võimaldab kindlamat üheaegset failikasutust▪suurendab üksikute baitide kirjutamise kiirust►Vale▪Vale▪Õige▪Vale►
+Miks on andmehalduse seisukohalt kasulikud indeksid?►suurendab andmete kopeerimise kiirust▪võimaldab kergemini kätte saada binaarandmeid▪aitab soovitud tunnuse järgi kiiremini otsida▪võimaldab kindlamat üheaegset failikirjutust►Vale▪Vale▪Õige▪Vale►
+Milline neist võiks olla tüüpiline üks-mitmele seos?►Heinakoorma mass▪Inimeste turismireiside sihtkohad▪Inimeste sünnilinnad▪Inimese isikukood►Vale▪Vale▪Õige▪Vale►
+Andmete kontseptuaalne tase on seotud põhiliselt►kõvaketta sektoritega▪failisüsteemiga▪andmebaasi struktuuriga▪kasutaja vaatega►Vale▪Vale▪Õige▪Vale►
+Mida aitab viiteline terviklus?►Hoolitseb, et ei oleks korduvaid andmeid▪Hoolitseb, et seotud andmetest ei saaks üht osa kogemata kustutada▪Hoolitseb, et igal real oleks primaarvõti▪Piirab ühe kirje andmemahu kilobaitides►Vale▪Õige▪Vale▪Vale►
+Milline neist on kolmandal normaalkujul olevate andmete eritunnus?►Ühel real olevad andmed ei sõltu üksteisest▪Ühes lahtris on üks väärtus▪Ühte tabeli lahtrisse võib paigutada rohkem kui ühe väärtuse▪Igas tabelis on rohkem kui üks primaarvõti►Õige▪Vale▪Vale▪Vale►
+Tabelile veeru lisamiseks tuleb kasutada käsklust:►insert▪update▪select from▪alter table►Vale▪Vale▪Vale▪Õige►
+Konkreetse sünniaastaga inimeste küsimiseks SELECT-lauses kasutatakse tingimust lauseosas nimega►ORDER BY▪WHERE▪GROUP BY▪FROM►Vale▪Õige▪Vale▪Vale►
+Käivitatud käskude eelse seisundi taastamiseks võib sobida►ROLLBACK▪COMMIT▪ORDER BY▪GROUP BY►Õige▪Vale▪Vale▪Vale►
+Kasutajale õiguste jagamiseks kasutatakse käsklust►UPDATE▪REVOKE▪GRANT▪INSERT►Vale▪Vale▪Õige▪Vale►
+Loogilisi vigu aitavad vältida►RAID-kettaseadmed▪võõrvõtmed▪varukoopiad▪UPS-seadmed►Vale▪Õige▪Vale▪Vale►
+Andmehoidla võimaldab:►leida eilse kolmanda tehingu summa▪kiiremini kätte saada kokkuvõtvaid andmeid▪serveri kettaid defragmenteerida▪kasutajaid kiiremini administreerida►Vale▪Õige▪Vale▪Vale►
+Andmekaeve:►võimaldab leida andmete mustreid, mida lihtsa tavapäringuga ei pruugi kätte saada▪kustutab andmehoidlast andmeid, mida mõningatel põhjustel ei soovita säilitada.▪on võimatu andmehoidlat kasutamata▪on andmebaasis võimalik ainult spetsiaalse kasutajatunnuse abil►Õige▪Vale▪Vale▪Vale►
+Abstraktsiooni puhul:►tohib andmete juures kasutada ainult arve▪parema arusaadavuse huvides üldistatakse üksikjuhtumid▪ei tohi alamprogrammid üksteist välja kutsuda▪peavad kõik andmed olema tekstitüüpi►Vale▪Õige▪Vale▪Vale►
+Pärandsüsteemid:►on ilmtingimata suured▪on kindlasti kättesaadava lähtekoodita▪on sageli raskesti kohandatavad ja liidestatavad▪on harva töövõimelised►Vale▪Vale▪Õige▪Vale►
+Massiivi puhul:►on elemendi poole võimalik pöörduda massiivi nime ning järjekorranumbri kaudu▪võivad sisaldada kuni viis elementi▪elemendid peavad olema täisarvud▪pole võimalik tsükli sees elementide poole pöörduda►Õige▪Vale▪Vale▪Vale►
+Andmepuu:►võib sisaldada ainult täisarve▪peab sisaldama vähemalt viis elementi▪lehtede väärtused saab süstemaatiliselt läbi käia▪on kasutatav vaid üksikute programmeerimiskeeltega►Vale▪Vale▪Õige▪Vale►
+Masinkood on:►esimese põlvkonna programmeerimiskeel▪teise põlvkonna programmeerimiskeel▪kolmanda põlvkonna programmeerimiskeel▪neljanda põlvkonna programmeerimiskeel►Õige▪Vale▪Vale▪Vale►
+Viite kaudu alamprogrammile andmete edastamisel:►tohib edasi anda ainult täisarve▪alamprogrammis tehtud muutus kajastub ka peaprogrammist parameetrina kaasa antud muutujas▪ei tohi ühele alamprogrammile kaasa anda rohkem kui ühte parameetrit▪kulub andmete kopeerimisele palju aega►Vale▪Õige▪Vale▪Vale►
+Klass►on objektitüüp, kõigil sama klassi eksemplaridel on samad omadused ja oskused.▪on eksemplar, kahte samast klassist eksemplari pole võimalik luua.▪on alamprogramm, väljakutsel täidetav käsujada.▪on pakett, sarnaste objektitüüpide kogum.►Õige▪Vale▪Vale▪Vale►
+Objektorienteeritud programmeerimise juures►üks suur keskne peaprogramm kontrollib kõiki toimetusi▪igast programmiosast on võimalik otse kõigi andmete poole pöörduda▪rakendus on jagatud suhteliselt iseseisvateks üksusteks, mis omavahel meetodite väljakutsete abil suhtlevad▪paljude samatüübiliste järjestatud andmete puhul on tagumiste poole võimalik pöörduda ainult nõnda, et tuleb kõikide esimeste aadressid läbida.►Vale▪Vale▪Õige▪Vale►
+Valik ja kordus►valiku puhul peab tingimuses olema &- märk▪korduse puhul peab tingimuses olema &-märk▪tingimuslauset läbitakse üks kord või üldse mitte, korduslauset null või rohkem korda▪iga korduslauset peab läbima vähemalt ühe korra►Vale▪Vale▪Õige▪Vale►
+Jäägiarvutus 5%4=►1▪2▪3▪4►Õige▪Vale▪Vale▪Vale►
+Integratsioonitestimise puhul►kontrollitakse keelefailide korrektsust▪kontrollitakse moodulite omavahelist koostalitlusvõimet▪kontrollitakse arvutuste korrektsust algoritmides▪kontrollitakse tingimuslausete omavahelist paiknemist►Vale▪Õige▪Vale▪Vale►
+Silurid (debugger) võimaldavad►käivitada programmi tööd sammude kaupa▪dekompileerida masinkoodi▪muuta muutujate andmetüüpe▪koondada programmifailid projektidesse►Õige▪Vale▪Vale▪Vale►
+Süsteemi nõuete dokument:►juhendab kasutaja käitumist erisugustes olukordades▪on nõuete kogumise ja analüüsi tegevuse väljundiks▪märgib üles rakenduse arhitektuurse disaini▪määrab rakendust loova meeskonna liikmed►Vale▪Õige▪Vale▪Vale►
+Koodi kommenteerimise reeglid:►määravad rakenduses kasutatava programmeerimiskeele▪hoiavad alles koodi vanemad versioonid▪kirjeldavad, kuidas ühtlaselt kirja panna programmi juures leiduv metainfo▪aitavad konfiguratsioonifailidest leida soovitud parameetreid.►Vale▪Vale▪Õige▪Vale►
+Milline on muutuja s väärtus pärast järgneva koodilõigu läbimist?   int[] m={4, 5, 8}; int s=0; for(int i=1; i<3; i++){ s=s+m[i]; }►0▪17▪13▪12►Vale▪Vale▪Õige▪Vale►
+Mida peaks koodilõigus muutma, et tulemusena leitaks massiivielementide summa? 1 int[] m={4, 5, 8, 9}; 2 int s=0; 3 for(int i=1; i<3; i++){ 4 s=s+m[i]; 5 }►rida 2 s=1;▪rida 3 for(int i=0; i<4; i++){▪rida 3 for(int i=0; i<3; i++){▪rida 2 s=-1;►Vale▪Õige▪Vale▪Vale►
+Mis teeb kommunikatsiooni edukaks?►sõnum saadeti välja▪sõnum jõudis kohale▪sõnumist saadi aru►Vale▪Vale▪Õige►
+Milline protokoll transpordib internetis andmeid ühest arvutis teise?►TCP▪IP▪TCP/IP►Vale▪Õige▪Vale►
+Mis on kasutajaliides?►Suvaline seade, millega saab teisele seadmele anda sisendinformatsiooni▪Kõik kuvarid, sh telerid, arvutiekraan, mobiiliekraan, jne▪Brauserid►Õige▪Vale▪Vale►
+Millega mõõdetakse kasutajaliidese võimekust?►kasutaja eesmärkide täitmisega▪töö kvaliteediga▪töö tegemise kiirusega►Vale▪Vale▪Õige►
+Milline värvitehnoloogia käsitleb valguse värve?►RGB▪CMY▪CMYK▪RGB ja CMY►Õige▪Vale▪Vale▪Vale►
+Kui suur on veebis kasutatavate piltide lahutusvõime?►92 ppi▪72 ppi▪suvaline►Vale▪Õige▪Vale►
+Millised graafikafailid võimaldavad kasutada veebibrauseris läbipaistvust?►JPG▪PNG▪PNG ja GIF▪JPG, PNG ja GIF►Vale▪Vale▪Õige▪Vale►
+Millistel eesmärkidel hakati looma arvutivõrku?►sõjalistel▪teaduslikel▪ärilistel►Vale▪Õige▪Vale►
+Mis on hüperlink?►brauseri nupp▪viide suvalisele failile▪viide teisele tekstile►Vale▪Õige▪Vale►
+Kelle eesmärke silmas pidades luuakse veebisaite?►saidi omaniku▪kõikide internetikasutajate▪spetsiifiliste sihtrühmade►Õige▪Vale▪Vale►
+Kui palju sihtrühma liikmeid läheb vaja kasutajaliidese testimiseks?►6▪10▪rohkem on parem►Õige▪Vale▪Vale►
+Mida tähendab kasutajapoolne kontroll ja vabadus kasutatavuse kontekstis?►Kasutaja kontrollib süsteemi tööd.▪Kasutaja võib luua sellist sisu nagu ta soovib.▪Kasutajal on õigus teha vigu►Vale▪Vale▪Õige►
+Mida väljendab George Milleri maagiline number 7?►Maksimaalset navigatsioonielementide hulka ühes grupis▪Inimese lühiajalise mälu võimekust info töötlemisel▪Toimingute korduste arvu, mis on vajalik veebisaidi funktsioonide õppimiseks.►Vale▪Õige▪Vale►
+Milline navigatsiooni meetod viib kasutaja kõige kiirema tulemuseni väikesemahulise saidi korral?►lame▪põimitud▪maatriks►Õige▪Vale▪Vale►
+Milline on kõige efektiivsem veebi disainimise meetod?►süžeetahvel▪sisukaart▪sõrestikmudel▪stsenaarium▪erinevate meetodite kombineerimine►Vale▪Vale▪Vale▪Vale▪Õige►
+Miks ei tohi HTMLis kasutada järjestikku mitut tühikut?►Brauserid ei ole võimelised sellise veaga koodi õigesti interpreteerima▪Kujundus läheb paigast ära.▪Tohib kasutada, kuid sellel pole mingit silmale nähtavat tagajärge►Vale▪Vale▪Õige►
+Millised on skriptikeeled?►HTML▪JavaScript ja XML▪XML▪PHP ja HTML▪HTML ja XML▪JavaScript ja PHP►Vale▪Vale▪Vale▪Vale▪Vale▪Õige►
+Millist tüüpi fonte on ekraanilt kõige parem lugeda?►seriifidega proportsionaalset fonti▪ilma seriifideta fikseeritud fonti▪seriifidega fikseeritud fonti▪ilma seriifideta proportsionaalset fonti►Vale▪Õige▪Vale▪Vale►
+Kas HTMLis saab komponente üksteise taha paigutada?►Jah▪Ei▪Jah, CSSi abil saab►Vale▪Vale▪Õige►
