@@ -1,0 +1,125 @@
+Milline komplekt komponente on kõige sobivam funktsioneeriva arvuti koostamiseks?►Protsessor, mälu, mikrokood▪Protsessor, mälu, sisend-väljund seade▪Protsessor, emaplaat, mälu, BIOS, toiteplokk►Vale▪Vale▪Õige▲
+Millise valemi järgi on õige teisendada 2 bitine kahendkood kümnendkoodiks?►Kõrgem bitt×22+madalam bitt×21▪Kõrgem bitt×21+madalam bitt×20▪Kõrgem bitt×20+madalam bitt×21►Vale▪Õige▪Vale▲
+Millises funktsioonis ei kasutata püsimälu arvuti koosluses?►BIOS▪Vahemälu▪Mikrokood►Vale▪Õige▪Vale▲
+Millised parameetrid iseloomustavad DDR2 SDRAM mälu jõudlust?►RPM▪SPD▪Veeruviivitus▪POST►Vale▪Vale▪Õige▪Vale▲
+Millisel massmäluseadmel on kõige väiksem viivitus andmete poole pöördumisel?►USB▪LVD▪HDD▪SSD▪ODD▪DVD►Vale▪Vale▪Vale▪Õige▪Vale▪Vale▲
+Tugikiibistik sisaldab:►Protsessori käsustiku▪Protsessori registrid▪Protsessori pingeregulaatori►Vale▪Vale▪Õige▲
+Millise valemiga saab arvutada PCI siini läbilaskevõimet megabaiti/sekundis?►Siini laius baitides×ülekandekiirus [MHz]/106▪Siini laius baitides×ülekandekiirus [MHz]▪Siini laius bittides×ülekandekiirus [MHz]/8►Vale▪Õige▪Vale▲
+Millised ei ole PCIe siini omadused?►Kahesuunaline infovahetus▪Kahe seadme vahel võib olla mitu ühenduskanalit (lane)▪Punktist-punktini topoloogia▪Siinil on vajalik tsentraliseeritud arbitreerimine►Vale▪Vale▪Vale▪Õige▲
+Terminali funktsioon on:►Ühendada palju arvuteid koos tööle▪Ühendada palju servereid koos tööle▪Võimaldab üle kanda kasutajakeskkonda serverist arvutitöökohale►Vale▪Vale▪Õige▲
+Virtualiseerimine võimaldab:►Käivitada palju servereid samaaegselt▪Käivitada terminali-serveri seansse▪Paremini ära kasutada ühe füüsilise serveri ressurssi►Vale▪Vale▪Õige▲
+Protsessori masinkäskudega ei saa teostada järgmist funktsiooni:►Protsessori andmevahetuse sünkroniseerimine▪Paremnihutus▪Eranditöötlus►Õige▪Vale▪Vale▲
+Millises järjekorras täidab protsessor programmi►Tulemuse salvestamine, käsu täitmine, käsu lugemine, käsu dekodeerimine▪Käsu dekodeerimine, käsu lugemine, käsu täitmine, tulemuse salvestamine▪Käsu lugemine, käsu dekodeerimine, käsu täitmine, tulemuse salvestamine►Vale▪Vale▪Õige▲
+Milline protsessori omadus võimaldab riistvara tasemel samaaegselt käivitada mitut operatsioonisüsteemi?►Käsukonveier▪Superskalaarne arhitektuur▪Mitmetuumalisus▪Virtualiseerimise tugi▪SIMD►Vale▪Vale▪Vale▪Õige▪Vale▲
+Kuidas taastakse protsessori käsuloendur katkestuse programmist naasmisel?►Vahemälust▪Mikrokoodist▪Pinumälust▪Püsimälust►Vale▪Vale▪Õige▪Vale▲
+Käsutaseme paralleelsus viitab võimalusele►Kasutada samas protsessoris mitut erinevat käsustikku paralleelselt▪Käivitada samaaegselt mitu operatsioonisüsteemi▪Käivitada samaaegselt mitut erinevat käsku►Vale▪Vale▪Õige▲
+Milline ei ole operatsioonisüsteemi funktsioon?►Võimaldada mugava kasutajaliidese abil käivitada kasutajarakendusi▪Pakkuda arenduskeskkonda rakenduste loomiseks▪Võimaldab kasutajarakendustel suhelda riistvaraga►Vale▪Õige▪Vale▲
+Kuidas suhtleb OS riistvaraga:►otse▪läbi draiverite▪läbi rakendusliideste►Vale▪Õige▪Vale▲
+Kernelirežiimis töötavad:►Kõik protsessid▪Süsteemiteenused▪Kasutajarakendused►Vale▪Õige▪Vale▲
+Mis on draiveri funktsioon?►Draiver vahendab käske riistvara seadmele▪Draiver vahendab rakendusliidese infot kerneliga▪Draiver vastab kasutajarakenduse süsteemikutsele►Õige▪Vale▪Vale▲
+Millised on võimalused protsessi ressursikasutuse mõjutamiseks?►Muuta prioriteeti▪Muuta kontekstiinfot▪Käivitada protsess kernelirežiimis►Õige▪Vale▪Vale▲
+Mis on kvantum:►Ajaühik▪Protsessori ajajaotus▪Protsessi ajajaotus►Vale▪Õige▪Vale▲
+Vastastikune välistamine tagab:►Rakenduste käivitamise ajastamise▪Rakenduste käivitamise ajastamise▪Ressursside poole pöördumise võimalikkuse▪Seotud protsessidele ressursside jagamise▪Sõltumatutele protsessidele ressursside jagamise►Vale▪Vale▪Vale▪Vale▪Õige▲
+Milline operatsioonisüsteemi omadus on väldib protsesside samaaegset ressursi poole pöördumist?►Mitmetegumilisus▪Multitöötlus▪Samaaegsus▪Vastastikune välistamine►Vale▪Vale▪Vale▪Õige▲
+Mis eristab protsessi lõimest?►Protsessi loomine on kiirem kui lõime loomine▪Protsessil on lõimega sama mäluruum▪Lõimed on protsessi osad►Vale▪Vale▪Õige▲
+Kontekstkommutatsiooni abil ei saa:►Rakendada mitmetegumilisust▪Rakendada multitöötlust▪Muuta protsessi staatust►Vale▪Õige▪Vale▲
+Virtuaalmälu võimaldab:►Salvestada protsesse muutmälus▪Salvestada faile muutmälus▪Jagada protsessidele oma mäluruum►Vale▪Vale▪Õige▲
+Virtuaalmälu on:►Sama mis muutmälu▪Maksimaalselt sama suur kui protsessori adresseeritav mäluruum▪Sama mis põhimälu►Vale▪Õige▪Vale▲
+Kui suur saalefail on soovitatav konfigureerida Windows operatsioonisüsteemiga arvutile?►2 korda põhimälu suurus▪1,5 korda põhimälu suurus▪Tuvastada reaalselt kasutuses oleva virtuaalmälu maht ja arvutada sellest maha füüsilise mälu maht►Vale▪Vale▪Õige▲
+Millest võivad tekkida lehekülje tõrked?►Vähesest muutmälu mahust▪Vähesest püsimälu mahust▪Pukslemisest►Õige▪Vale▪Vale▲
+Mis mahuga on failisüsteemi väikseim ühik?►Sektor▪Bitt▪Bait►Õige▪Vale▪Vale▲
+OS kaitsemehhanismid on:►Konfidentsiaalsus▪Puutumatus▪Kasutajate autentimine►Vale▪Vale▪Õige▲
+Milline allpooltoodud võimalustest ei kaitse arvutit viiruste eest?►Süsteemiuuenduste keelamine▪Lubada kasutajatel ainult valitud rakenduste installeerimine▪Keelata eemaldatavate seadmete ühendamine süsteemi▪Viirusetõrjerakenduse paigaldamine►Õige▪Vale▪Vale▪Vale▲
+Kuidas salvestatakse kasutajate paroolid süsteemis?►Krüpteerimata▪Sümmeetriliselt krüpteerituna▪Räsialgoritmiga krüpteerituna►Vale▪Vale▪Õige▲
+Kuidas varundada töötavate rakenduste andmed?►Ei saa varundada▪Saab varundada kui OS ja rakendused toetavad failisüsteemi vastavat teenust, mis võimaldab salvestada jooksva failisüsteemi seisu▪Saab varundada alati►Vale▪Õige▪Vale▲
+Juurdepääsunimekiri on:►Nimekiri ressurssidele määratud õigustest▪Nimekiri protsessidele määratud õigustest▪Nimekiri lõimedele määratud õigustest►Õige▪Vale▪Vale▲
+Monoliitne kernel on iseloomulik►Windows OS'ile▪Linux OS'ile▪Mõlemale OS'ile►Vale▪Õige▪Vale▲
+Mis on süsteemikutse fork ülesanne?►Uue lõime loomine▪Uue protsessi loomine►Vale▪Õige▲
+Windows'i kernelikomponendid on:►Mitmekihilise ülesehitusega▪Monoliitse ülesehitusega▪Rakendusliides►Õige▪Vale▪Vale▲
+Mis parameeter mõjutab diskreeditud analoogsignaali kvaliteeti?►Diskreetimissagedus▪Ülekandemeedium▪Ülekandekiirus►Õige▪Vale▪Vale▲
+Analoogsignaali kvantimisega:►Hinnatakse analoogsignaali väärtust ajahetkel▪Diskreeditakse analoogsignaal▪Moduleeritakse analoogsignaal►Õige▪Vale▪Vale▲
+Pakettkommutatsiooniga võrgus:►Marsruuditakse iga pakett sõltumatult▪Paketid jõuavad alati sihtkohta▪Ühelt saatjalt saadetud paketid marsuuditakse alati sama teed pidi►Õige▪Vale▪Vale▲
+Internet on:►Pakettkommutatsiooniga võrk▪Kanalikommutatsiooniga võrk▪Garanteeritud andmepakettide ülekande kontrolliga võrk►Õige▪Vale▪Vale▲
+Kes tegeleb standardimisega Eestis?►ECMA▪EVS▪IEEE►Vale▪Õige▪Vale▲
+IP alamvõrk:►On kogum võrguseadmeid, mis omavad sama võrgunime ja on ühendatud füüsilise võrguühendusega▪Koosneb kogumist arvutusseadmetest, mis kuuluvad sellesse võrku▪On komplekt marsruutereid, mis ühendatud omavahel▪On sama IP aadressiga arvutusseadmed►Õige▪Vale▪Vale▪Vale▲
+Milline allpooltoodud väidetest on õige MAC aadressi kohta:►MAC aadress on võrguseadme unikaalne identifikaator▪Kaks erinevat võrguliidest ei saa omada sama MAC aadressi. Iga MAC aadress koosneb 4 baidist▪MAC aadress määratakse dünaamiliselt internetiteenuse pakkuja poolt►Õige▪Vale▪Vale▲
+Kas CSMA/CD hoiab alati ära konfliktid sidekanalile juurdepääsul?►Ei hoia, CSMA/CD tuvastab konfliktid ja lahendab need▪Jah, kuna iga seade saab andmeid edastada vaid siis kui ülekandemeedium on vaba▪Jah, kuna keskne seade haldab infovoogu►Õige▪Vale▪Vale▲
+Mille poolest on kommutaator parem jaoturist?►Vähem häireid leviedastusel (Broadcast)▪Vähem ummistusi üksipakettide edastusel▪Saadab infot alati laiali korraga kõigile võrguseadmetele►Vale▪Õige▪Vale▲
+Kahe lauaarvuti ühendamiseks on vaja?►Marsruuterit▪Juurdepääsupunkti▪Patch kaablit►Vale▪Vale▪Õige▲
+Milline väidetest on õige:►IP protokoll on ühenduseta protokoll▪IP protokoll on ühendusele-orienteeritud protokoll▪IP protokoll tagab pakettide kohaletoimetamise►Õige▪Vale▪Vale▲
+Mitmendal TCP/IP mudeli tasemel töötab UDP protokoll?►1▪2▪3►Vale▪Vale▪Õige▲
+OSI rakendustaseme protokoll on?►TCP▪IP▪SMTP►Vale▪Vale▪Õige▲
+TCP protokoll:►Ei taga minimaalset ühenduse ribalaiust rakendustele▪Ei taga kadunud pakettide kontrolli▪Ei taga pakettide järjestamist►Õige▪Vale▪Vale▲
+IP protokoll võimaldab?►Pakettide järjestamist▪Pakettide marsruutimist▪Pakettide veakontrolli►Vale▪Õige▪Vale▲
+Miks on vaja kaitsta võrguliiklust?►Viivituste vähendamiseks▪Krüpteerimisvõtmete edastamiseks▪Töökindluse tõstmiseks►Vale▪Õige▪Vale▲
+Kuidas blokeerida PING pakettidega ründeid?►Kasutada portide turvamist▪Kasutada protokolli blokeerimist▪Kasutada ARP blokeerimist►Vale▪Õige▪Vale▲
+Mis tähendab identiteedi vargus?►Võrguaadressi võltsimine▪Petmine▪Nuuskimine►Õige▪Vale▪Vale▲
+Pordi ülevõtmine on:►ARP protokolli kasutamine▪Võimalik rakendada jaoturi abil▪Kommutaatori pordi suunamine vahendusmehe masinasse►Vale▪Vale▪Õige▲
+Mille poolest erinevad sümmeetrilise krüpteerimise algoritmid asümmeetrilise krüpteerimise algoritmidest?►On kiiremad▪On turvalisemad▪On kasutatavad võtme turvaliseks edastamiseks►Õige▪Vale▪Vale▲
+Milline järgmistest väidetest on tõene?►Krütograafiline meetod takistab võtme puudumisel avada saadetud sõnumeid▪Krüpteerimismeetod ei ole turvaline kui sissetungija teab seda▪Krüpteerimismeetod peab tagama teate autentsuse►Õige▪Vale▪Vale▲
+Milline järgmistest väidetest on õige?►Sertifitseerimisasutus sertifitseerib kasutajate avalike võtmete korrektsuse▪Sertifitseerimisasutus tagab ühenduse salastatuse▪Enne avaliku võtme krüpteerimismeetodi rakendamist on vaja kontakteeruda sertifitseerimisasutusega►Õige▪Vale▪Vale▲
+Millist võtit on vaja salastatud ja allkirjastatud sõnumi saatmiseks?►Saatja salajast võtit ja vastuvõtja avalikku võtit▪Saatja salajast võtit ja vastuvõtja salajast võtit▪Saatja avalikku võtit ja vastuvõtja salajast võtit▪Saatja avalikku võtit ja vastuvõtja avalikku võtit►Õige▪Vale▪Vale▪Vale▲
+Millist krüpteerimismeetodit kasutab turvasoklite kihi protokoll?►Ainult asümmeetrilist krüpteerimismeetodit▪Sümmeetrilist ja asümmeetrilist krüpteerimismeetodit▪Ainult asümmeetrilist krüpteerimismeetodit►Vale▪Õige▪Vale▲
+Milline osa aadressist www.riik.ee näitab tipptaseme domeeni?►www.▪riik.ee▪.ee►Vale▪Vale▪Õige▲
+Kuidas registreeritakse domeeninimed Eestis?►ICANN vahendusel▪EIS vahendusel▪Registripidaja vahendusel►Vale▪Vale▪Õige▲
+DNS päring algab?►Iteratiivse päringuga▪DNS serveri tsoonifaili kontrolliga▪Kliendipoolse nimepuhvri kontrolliga►Vale▪Vale▪Õige▲
+Puhverdatud DNS kirje kehtivust kontrollitakse?►Autoritiivsest nimeserverist▪Kirje TTL väärtusest▪Lokaalse nimeserveri tsoonidest►Vale▪Õige▪Vale▲
+MX kirje viitab:►E-posti klientidele▪E-posti serverile▪Teisele A-kirjele►Vale▪Õige▪Vale▲
+Klient-server rakenduse korral:►Alustab alati klient ühenduse loomist päringuga serverile▪Alustab alati server ühenduse loomist päringuga kliendile▪On kliendi ja serveri vahel pidevalt aktiivne ühendus▪Alustab kas klient või server ühenduse loomist sõltuvalt kasutatavast protokollist►Õige▪Vale▪Vale▪Vale▲
+Küpsis (Cookie) võimaldab:►Lihtsustada autentimist▪Kontrollida pakettide ülekandmist▪Üle kanda veebilehti►Õige▪Vale▪Vale▲
+Mis on HTML?►Märgistuskeel▪Meta-keel▪Ühendusele orienteeritud andmeedastusprotokoll▪Ühenduseta andmeedastusprotokoll►Õige▪Vale▪Vale▪Vale▲
+Veebipäringut andmebaasi vahendab?►DNS▪MAC▪ASP►Õige▪Vale▪Vale▲
+Veebiaplett:►Käivitatakse serveris▪Käivitatakse kliendi arvutis▪Käivitatakse teenusepakkuja serveris►Vale▪Õige▪Vale▲
+E-posti protokollid on?►ARP, POP3, SMTP▪POP3, RTP, SMTP▪SMTP, IMAP4►Vale▪Vale▪Õige▲
+E-posti server peab rakendama IMAP'i ja POP protokolle et:►Saata sõnum kliendile▪Saata sõnum teisele serverile▪Vastu võtta sõnum teiselt serveril►Õige▪Vale▪Vale▲
+Kas veebi kaudu e-postile juurdepääsemiseks peab veebilehitseja rakendama standardseis protokolle e-posti teenuse jaoks?►Ei, veebilehitseja vajab ainult ühendust HTTP serveriga ja server ühendub e-posti serveriga▪Jah, muidu ei saa teateid edastada▪Veebilehitseja peab vähemalt suutma rakendada SMTP protokolli►Õige▪Vale▪Vale▲
+Millist porti SMTP protokoll kasutab?►911▪110▪993▪25►Vale▪Vale▪Vale▪Õige▲
+Millist protokolli IP telefon kasutab andmete transportimisel?►SIP▪SSL▪RTP►Vale▪Vale▪Õige▲
+Partnervõrgu kõned tehakse:►Fikseeritud telefonivõrgu kaudu▪Otse arvutite vahel üle interneti▪Analoogtelefonide vahendusel►Vale▪Õige▪Vale▲
+Millise sagedusega diskreeditakse inimkõne IP telefonis?►44 kHz▪22 kHz▪8 kHz►Vale▪Vale▪Õige▲
+Mida iseloomustab MOS?►Edastatava kõne krüpteeringut▪Edastatava kõne maksumust▪Edastatava kõne kvaliteeti►Vale▪Vale▪Õige▲
+Milline meetod võimaldab edastada multimeediat?►Marsruutimine▪Leviedastus▪Voogedastus►Vale▪Vale▪Õige▲
+Mis on voo puhverdamise eesmärk?►Sünkroniseerida heli ja pildi andmed▪Sünkroniseerida edastatav voog globaalselt▪Et saavutada sujuv multimeediaesitlus►Vale▪Vale▪Õige▲
+Multimeediaserveri olulisim komponent on:►Võimas graafikakaart▪Suur monitor▪Kiire massmäluseade►Vale▪Vale▪Õige▲
+Mis seade võimaldab helistamist ja asukoha määramist?►GPS▪GSM▪Nutitelefon►Vale▪Vale▪Õige▲
+Nutitelefoni operatsioonisüsteem ei ole:►Android▪Symbian OS▪GPS▪iOS►Vale▪Vale▪Õige▪Vale▲
+GPS seade võimaldab:►Tuvastada asukohta mobiiltelefoni keskjaama abil▪Tuvastada asukohta garaažis▪Tuvastada asukohta satelliitide abil►Vale▪Vale▪Õige▲
+Kui palju info mahutab maksimaalselt 2-kihiline DVD plaat?►6,0 GB▪4,5 GB▪8,54 GB►Vale▪Vale▪Õige▲
+Välkmäluseade on:►Kõvaketas▪Nutitelefoni mälukaart▪Optiline mäluseade►Vale▪Õige▪Vale▲
+Kuidas kantakse üle infosignaali?►Elektromagnetlainete abil▪Moduleerimise abil▪Spektrilaotustehnoloogia abil►Õige▪Vale▪Vale▲
+Kuidas saab võimalikuks mitme biti info ülekandmine faasimodulatsiooniga?►Vastandades igale faasinihkele ühe biti▪Vastandades konkreetsele faasinihkele juhusliku numbrilise väärtuse▪Vastandades konkreetsele faasinihkele ühe konkreetse numbrilise väärtuse kahendkoodis►Vale▪Vale▪Õige▲
+Mille poolest erinevad WLAN ja WPAN?►Piconet võrk▪Ad-hoc võrgu toetus▪Sagedusdiapasoon►Õige▪Vale▪Vale▲
+Miks on vaja, et Bluetooth seadmete võimsus oleks madal?►Andmeedastuskiiruse tõstmiseks▪Leviraadiuse tõstmiseks▪Häirekindluse tõstmiseks►Vale▪Vale▪Õige▲
+Milline krüpteering on tõhusaim WiFi võrgu jaoks?►WEP 128 bitise võtmega▪TKIP 128 bitise võtmega▪AES►Vale▪Vale▪Õige▲
+Milline meetod aitab tõhusaimalt kaitsta WiFi võrku?►MAC aadresside filtreerimine▪WPA kasutamine koos jagatud võtmega▪WPA kasutamine RADIUS serveriga►Vale▪Vale▪Õige▲
+Milline standard ühildub IEEE 802.11g standardiga?►IEEE 802.15.3▪IEEE 802.11n▪IEEE 802.15.1►Vale▪Vale▪Õige▲
+Mobiilseks andmesideks kasutatav protokoll on:►EDGE▪GPS▪PSK►Õige▪Vale▪Vale▲
+Milleks kasutatakse mobiilset IP'd?►Tugijaamade vaheliseks juhtinfo vahetuseks▪Tugijaamade vahelise uitühenduse võimaldamiseks▪Mobiilse seadme uitühenduse võimaldamiseks►Vale▪Vale▪Õige▲
+Kuidas saab energiat passiivne RFID?►Päikesepatarei abil▪Patarei abil▪Elektromagnetiliste lainete abil►Vale▪Vale▪Õige▲
+Mis on võrguhalduse funktsioon?►Võrgu jagamine alamvõrkudeks▪Võrgu turvamine▪Võrgu läbilaskevõime tõstmine►Vale▪Õige▪Vale▲
+Mis on tõrkehalduse puhul kõige olulisem?►Saada kiirelt teada kes probleemi põhjustas▪Saada kiirelt teada probleemne seade▪Saada kiirelt teada kui kaua probleemi lahendamine aega võtab►Vale▪Õige▪Vale▲
+Jõudlushalduse funktsioon on?►Teadustamiskünnise määramine▪Seadmete hoolduse läbiviimine▪Seadmete koormuse piiramine►Õige▪Vale▪Vale▲
+Mida teeb MIB?►Salvestab lahendusi vigade parandamiseks▪MIB on andmebaas, mis sisaldab komponente jälgivate agentide kogutud infot▪MIB on andmebaas, milles hoitakse halduskeskuse saadetud infot►Vale▪Õige▪Vale▲
+Mida mõõdetakse viitega?►Andmepaketi ülekandmisaega▪Puhvri järjekorrast tulenevat viivitust▪Summaarset paketi viivitust teekonnal►Vale▪Vale▪Õige▲
+Läbilase näitab?►Andmehulka, mida võrk teoreetiliselt kannab üle ajaühikus▪Andmehulka, mida võrk reaalselt kannab üle ajaühikus▪Andmehulka, mis kantakse üle võrgu perioodi jooksul►Vale▪Õige▪Vale▲
+Mis on OID?►MIB kirje▪Trap'i vorming▪Punktidega eraldatud nimi►Vale▪Vale▪Õige▲
+Milline SNMPv2 sõnumi tüüp ei vaja vastust (Response) vastuvõtjalt?►Get▪Inform▪Trap►Vale▪Vale▪Õige▲
+Milline on SNMPv2 erinevus algversioonist?►SNMPv2 toetab nii tsentraliseeritud kui jagatud võrguhaldust▪Uued turvavõimalused▪Uuenenud transpordiprotokoll►Õige▪Vale▪Vale▲
+Milline on SNMPv3 erinevus teistest versioonides?►Krüpteerimise toetus▪Uued operatsioonid▪Parooliga juurdepääs►Õige▪Vale▪Vale▲
+SNMPv3 üksus sisaldab?►PDU▪SMI▪Rakenduse►Vale▪Vale▪Õige▲
+Millise rakendusega saab tuvastada pakettide kadu seadmete vahel?►Arp▪Ipconfig▪Ping►Vale▪Vale▪Õige▲
+Mis rakendus võimaldab kontrollida avatud porti?►Tracert▪Ifconfig▪Telnet►Vale▪Vale▪Õige▲
+Kui suurele server massmäluseadmele on võimalik kogude ühe kuu jooksul võrguseadmete andmeid kui ettevõttes on 25 seadet, infot kogutakse 1 kord sekundis ja infohulk seadme kohta on 15 kB?►50 GB▪30 GB▪10 GB►Õige▪Vale▪Vale▲
+Millisest allikast on mõistlik alustada võrguhaldussüsteemi nõuetele vastava riistvara valimist?►Valida sama server nagu ostis tuttava ettevõtte administraator▪Valida kõige kallim server pakutavate serverite nimekirjast, et oleks laiendamiseks varu▪Uurida riistvara nõudeid võrguhaldustarkvara tootja spetsifikatsioonist või selle tarkvara müüjalt►Vale▪Vale▪Õige▲
+Teenustaseme haldusprotsessi tegevused on?►Läbirääkimised▪Teenuste kataloog▪Teenustaseme leping►Õige▪Vale▪Vale▲
+Teenustaseme haldusprotsessi dokument ei ole?►Teenustaseme leping▪Käitlusleping▪Hooldusleping►Vale▪Vale▪Õige▲
+Teenustaseme lepingus on fikseeritud?►Käideldavusnäitajad▪Muudatuste nõukoja otsused▪Riskianalüüs►Õige▪Vale▪Vale▲
+Partnerleping sõlmitakse?►Teenustaseme lepingu lisana▪Ettevõtte sisese osakonnaga▪IT teenuse delegeerimiseks välisele partnerile►Vale▪Vale▪Õige▲
+Mahuhalduse eesmärk on?►Hinnata riske▪Hinnata sooritusvõimet▪Tagada serveris piisavalt vaba massmäluseadme salvestusruumi►Vale▪Õige▪Vale▲
+Kõik mahuhaldusega seotud tegevused peavad alati olema üle vaadatud, et leida tasakaal:►Hinna ja mahu vahel▪Pakkumise ja nõudluse vahel▪Äri ja nõudluse vahel►Vale▪Õige▪Vale▲
+Talitluspidevusplaani peamine eesmärk on?►Ärikahju vähendamine miinimumini▪Tõrkeolukordade ärahoidmine▪Tõrkeolukordade lahendamine►Õige▪Vale▪Vale▲
+Riski kalkuleerimise rusikareegel on (R=risk;D=kahju;P=ohu esinemise tõenäosus):►R=D+P▪R=D/P▪R=D×P►Vale▪Vale▪Õige▲
+Milline kombinatsioon järgnevatest on käideldavuse mõõdikud? Valikute loend: a. Maasoleku protsent b. Tõrke esinemise sagedus c. Tõrke mõju d. Juhtumite arv aastas►A, C, D▪B, D▪B, C▪A,B,C►Vale▪Vale▪Vale▪Õige▲
+Mida saab mõõta MTBF abil?►Kõvaketta vea esinemise keskmist sagedust▪Keskmist tõrkeolukorra kestust▪Keskmist tõrkeolukorra taastamise aega►Õige▪Vale▪Vale▲
+Käideldavushalduse analüüsi tööriist on?►Komponendi tõrke mõju analüüs▪Komponendi testimisrakendus▪MTTR►Õige▪Vale▪Vale▲
+Miks ei ole reeglina mõistlik tagada teenuse käideldavus 100% perioodi jooksul?►Hoolduse tegemise vajadus▪Suured kulud▪Elektrikatkestused ei võimalda seda teha►Vale▪Õige▪Vale▲
